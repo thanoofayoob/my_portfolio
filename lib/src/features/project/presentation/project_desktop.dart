@@ -27,8 +27,8 @@ class ProjectDesktop extends ConsumerWidget {
         ...projects.mapIndexed((index, project) {
           return Column(
             children: [
-              ProjectCard(project: project),
-              if (index != projects.length - 1) gapH24,
+              // ProjectCard(project: project),
+              // if (index != projects.length - 1) gapH24,
             ],
           );
         }),

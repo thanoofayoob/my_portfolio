@@ -1,8 +1,8 @@
 <img src="assets/images/logo.png" align="right" width="60px"/>
 
-# Portfolio 💙 [![Stars](https://img.shields.io/github/stars/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/forks?include=active&page=1&period=&sort_by=stargazer_counts)
+# Portfolio 💙 [![Stars](https://img.shields.io/github/stars/AladdineDev/portfolio?style=flat-square)](https://github.com/thanoofayoob/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/AladdineDev/portfolio?style=flat-square)](https://github.com/thanoofayoob/portfolio/forks?include=active&page=1&period=&sort_by=stargazer_counts)
 
-Flutter Portfolio – by [@AladdineDev](https://github.com/AladdineDev)
+Flutter Portfolio – by [@AladdineDev](https://github.com/thanoofayoob)
 
 [![Flutter 3](https://img.shields.io/badge/Flutter-3.16-02569b.svg?style=flat-square&logo=flutter&logoColor=13b9fd)](https://flutter.dev/)
 [![Dart 3](https://img.shields.io/badge/Dart-3.2-0175c2.svg?style=flat-square&logo=dart&logoColor=13b9fd)](https://dart.dev/)
@@ -24,7 +24,7 @@ Flutter Portfolio – by [@AladdineDev](https://github.com/AladdineDev)
 
 If you haven't already, install [Flutter](https://docs.flutter.dev/get-started/install)
 
-**1. [Fork](https://github.com/AladdineDev/portfolio/fork) and [clone](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) this repository**
+**1. [Fork](https://github.com/thanoofayoob/portfolio/fork) and [clone](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) this repository**
 
 **2. Enable your workflows**
 
@@ -113,4 +113,4 @@ dart run flutter_native_splash:create
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AladdineDev/portfolio/blob/main/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thanoofayoob/portfolio/blob/main/LICENSE.md) file for details

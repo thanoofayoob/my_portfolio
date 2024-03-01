@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
+    "name": "Thanoof Ayoob",
     "description": "Mobile App Developer",
     "subDescription": "Flutter & Python Enthusiast",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/thanoofayoob",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -23,7 +23,7 @@
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/thanoof-ayoob-74b377176/",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome",
@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "ayoobthanoof@gmail.com",
+            "url": "mailto:ayoobthanoof@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome",
@@ -40,8 +40,8 @@
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+91 9745556449",
+            "url": "tel:+919745556449",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -52,22 +52,18 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
-        },
-        {
-            "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/122-lAk3I0QVc6un1Fb7fCmIf-H0u8Be-/view?usp=share_link"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "Flutter developer with 3.5+ years of experience building mobile applications. Skilled in   problem-solving and creating user-centric experiences through elegant design and robust functionality.",
     "experiences": [
         {
-            "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
-            "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
+            "role": "Senior Software Engineer",
+            "company": "Valcare Consulting",
+            "description": " Led the development of the app from scratch, implementing features and functionalities.",
+            "isPresent": true,
+            "startYear": 2023,
+            "endYear": 2024,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -82,68 +78,25 @@
                         "assetName": "assets/images/logos/other/dart.svg",
                         "fontPackage": "icons_plus"
                     }
-                },
-                {
-                    "name": "Django",
-                    "icon": {
-                        "codePoint": "0xeee7",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/python.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "PostgreSQL",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/postgresql.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "SQLite",
-                    "icon": {
-                        "codePoint": "0xe944",
-                        "fontFamily": "OctIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/docker.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "AWS",
-                    "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
                 }
             ],
             "links": [
                 {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
+                    "url": "http://valcareconsulting.com",
+                    "display": "Valcare Consulting"
                 }
             ]
         },
+
+      
         {
-            "role": "Mobile App Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
+            "role": "Software Engineer",
+            "company": "Excelledia Ventures",
+            "description": "Team Lead",
             "startYear": 2022,
             "startMonth": 1,
             "endYear": 2022,
-            "endMonth": 2,
+            "endMonth": 12,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -166,75 +119,22 @@
                         "fontPackage": "icons_plus"
                     }
                 }
-            ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/html-5.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/css3.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/javascript.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons",
-                        "fontPackage": "icons_plus"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/images/logos/software-development/mariadb.svg",
-                        "fontPackage": "icons_plus"
-                    }
-                }
             ],
             "links": [
                 {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
+                    "url": "https://www.excellediaventures.com",
+                    "display": "Excelledia Ventures"
                 }
             ]
-        }
-    ],
-    "present": "Present",
-    "projects": [
+        },
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "fontPackage": "icons_plus",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/portfolio.png",
+            "role": "Mobile Apps Engineer",
+            "company": "Centrric Innovation Pvt ltd",
+            "description": "Designed and developed apps from scratch to deployment",
+            "startYear": 2020,
+            "startMonth": 10,
+            "endYear": 2021,
+            "endMonth": 12,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -249,19 +149,31 @@
                         "assetName": "assets/images/logos/other/dart.svg",
                         "fontPackage": "icons_plus"
                     }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/images/logos/other/firebase.svg",
+                        "fontPackage": "icons_plus"
+                    }
                 }
+               
             ],
             "links": [
                 {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
+                    "url": "https://centrric.com",
+                    "display": "Centrric Innovations Pvt. Ltd."
                 }
             ]
-        },
+        }
+    ],
+    "present": "Present",
+    "projects": [
+       
         {
             "name": "Learn Flow API",
             "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "url": "https://github.com/thanoofayoob/learnflow-api#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -311,7 +223,7 @@
         {
             "name": "Learn Flow Backoffice",
             "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "url": "https://github.com/thanoofayoob/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -339,7 +251,7 @@
         {
             "name": "GSB-Frais",
             "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "url": "https://github.com/thanoofayoob/GSB-Frais#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -390,7 +302,7 @@
         {
             "name": "GSB-RV-Visiteur-Serveur",
             "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
+            "url": "https://github.com/thanoofayoob/GSB-RV-Visiteur-Serveur#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -440,21 +352,13 @@
                 "assetName": "assets/images/logos/flags/united-states-of-america.svg",
                 "fontPackage": "icons_plus"
             }
-        },
-        {
-            "code": "fr",
-            "name": "French",
-            "nativeName": "Français",
-            "icon": {
-                "assetName": "assets/images/logos/flags/france.svg",
-                "fontPackage": "icons_plus"
-            }
         }
+       
     ],
     "bottomBanner": {
         "message": "Open source portfolio -",
         "displayLink": "Fork it",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "linkUrl": "https://github.com/thanoofayoob/portfolio#readme"
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Home",
@@ -467,3 +371,6 @@
     "openUrlError": "Could not open the url",
     "unknownLanguageError": "Language unknown"
 }
+
+
+

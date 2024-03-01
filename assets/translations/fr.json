@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
+    "name": "Thanoof Ayoob",
     "description": "Développeur Mobile",
-    "subDescription": "Passionné par Flutter & Python",
+    "subDescription": "Passionné par Flutter ",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/thanoofayoob",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -23,7 +23,7 @@
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/thanoof-ayoob-74b377176/",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome",
@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "ayoobthanoof@gmail.com",
+            "url": "mailto:ayoobthanoof@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome",
@@ -40,8 +40,8 @@
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+91 9745556449",
+            "url": "tel:+919745556449",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -52,14 +52,14 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/122-lAk3I0QVc6un1Fb7fCmIf-H0u8Be-/view?usp=share_link"
         },
         {
             "languageCode": "fr",
             "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Salut ! Je m'appelle Aladdine, et je suis apprenti développeur en quatrième année de Mobilité et Objets Connectés à l'ESGI Paris. Passionné par l'écosystème mobile, je combine mes études et mon expérience professionnelle pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
+    "aboutDescription": "",
     "experiences": [
         {
             "role": "Développeur Mobile",
@@ -227,7 +227,7 @@
         {
             "name": "Portfolio",
             "description": "Ce projet open source permet à toute personne de disposer d’un portfolio en ligne en moins de 10 minutes. Il adopte une architecture basée sur Riverpod en suivant une approche feature-first pour sa structure. Il est entièrement responsive, et prend en charge plusieurs thèmes ainsi que plusieurs langues.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "url": "https://github.com/thanoofayoob/portfolio#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -261,7 +261,7 @@
         {
             "name": "Learn Flow API",
             "description": "Learn Flow est un projet de groupe visant à créer une solution de mise en relation d'élèves et d'enseignants. Cette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web). Elle offre notamment des fonctionnalités d'authentification avec JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "url": "https://github.com/thanoofayoob/learnflow-api#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -311,7 +311,7 @@
         {
             "name": "Learn Flow Backoffice",
             "description": "Il s'agit du back-office conçu pour les managers du projet Learn Flow. Cette Single-Page App leur permet de surveiller l'activité de leurs applications et utilisateurs (trafic, factures...).",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "url": "https://github.com/thanoofayoob/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -339,7 +339,7 @@
         {
             "name": "GSB-Frais",
             "description": "GSB-Frais est une application web de gestion des frais, développée pour les délégués médicaux et les comptables de l'entreprise fictive GSB. Elle facilite la saisie et la vérification des rapports mensuels des délégués médicaux, tout en permettant aux comptables de les traiter.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "url": "https://github.com/thanoofayoob/GSB-Frais#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -390,7 +390,7 @@
         {
             "name": "GSB-RV-Visiteur-Serveur",
             "description": "L'API REST du projet GSB sert d'interface pour les différents clients du projet (Android, Desktop et Web).",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
+            "url": "https://github.com/thanoofayoob/GSB-RV-Visiteur-Serveur#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -454,7 +454,7 @@
     "bottomBanner": {
         "message": "Portfolio open source -",
         "displayLink": "Forkez-le",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "linkUrl": "https://github.com/thanoofayoob/portfolio#readme"
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Accueil",
